@@ -1,5 +1,5 @@
 # Mobile-game-unity
-*Group Members: Goh Jun Le, Jannat Bedi, Bryan Goh, Jovan Huang, Patria Lim*
+*Group Members: Goh Jun Le, Jannat Bedi, Bryan Goh, Jovan Huang, Patria Lim* <br>
 This application was created as part of Project Vigilance under NTU EDGE programme for UBS Group AG. <br>
 
 ### Description
