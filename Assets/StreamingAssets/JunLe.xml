@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>What does VPN protects you from?</Info>
+      <Answers>
+        <Answer>
+          <Info>Data Thieving</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Bad Guys</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Diseases</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    <Question>
+      <Info>Choose the imposter</Info>
+      <Answers>
+        <Answer>
+          <Info>NUS_5GHz</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Wireless@SG</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ScreamforPW</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Changi@SG</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>NTUSecure</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    <Question>
+      <Info>As good as free Wi-Fi sounds, should you remember to Forget This Network?</Info>
+      <Answers>
+        <Answer>
+          <Info>No, so that auto-connection will be enabled.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>No, its too troublesome to click on connect when I am in need of the Wi-Fi</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Yes, it protects me from data thief</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    </Questions>
+</Data>

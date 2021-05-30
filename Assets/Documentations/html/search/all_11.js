@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['rect_194',['Rect',['../class_answer_data.html#a94c01d027d37da7966471123f0109fac',1,'AnswerData']]],
+  ['removeplayerpref_195',['RemovePlayerPref',['../class_remove_player_pref.html',1,'']]],
+  ['removeplayerpref_2ecs_196',['RemovePlayerPref.cs',['../_remove_player_pref_8cs.html',1,'']]],
+  ['reset_197',['Reset',['../class_answer_data.html#a760b863da395be4df928b6a182c515fd',1,'AnswerData']]],
+  ['resolutionbg_198',['ResolutionBG',['../struct_u_i_elements.html#a444a14cbf0272f265307fbd5043fbfe9',1,'UIElements']]],
+  ['resolutionbg_199',['resolutionBG',['../struct_u_i_elements.html#a2a31dc0717f975a85d6f748c7795ebe0',1,'UIElements']]],
+  ['resolutiondelaytime_200',['ResolutionDelayTime',['../class_game_utility.html#a541bdfd5b7181e8a79f297a9c4f9295a',1,'GameUtility']]],
+  ['resolutionscoretext_201',['ResolutionScoreText',['../struct_u_i_elements.html#acda2f99760fb41a888e109557d683c3f',1,'UIElements']]],
+  ['resolutionscoretext_202',['resolutionScoreText',['../struct_u_i_elements.html#a7fd447f374af071cfbf65331de1916bf',1,'UIElements']]],
+  ['resolutionscreenanimator_203',['ResolutionScreenAnimator',['../struct_u_i_elements.html#a4520d52b0394911f9551d5ee4a75a2d7',1,'UIElements']]],
+  ['resolutionscreenanimator_204',['resolutionScreenAnimator',['../struct_u_i_elements.html#ae8a19685337830e813e9cfe8b3f658de',1,'UIElements']]],
+  ['resolutionscreentype_205',['ResolutionScreenType',['../class_u_i_manager.html#a9985442a3933ecf1c187f881cda7bbf6',1,'UIManager']]],
+  ['resolutionstateinfotext_206',['resolutionStateInfoText',['../struct_u_i_elements.html#a226309401125a611a0388d0160b77326',1,'UIElements']]],
+  ['resolutionstateinfotext_207',['ResolutionStateInfoText',['../struct_u_i_elements.html#a97afda0548fe2e3f1c898b23ed3ac063',1,'UIElements']]],
+  ['respawntime_208',['respawnTime',['../class_deploy_enemy.html#a737b79494b93616a99262b4330b394f6',1,'DeployEnemy.respawnTime()'],['../class_deploy_powerup.html#a958263bec2f8868d61d0787c1ad43250',1,'DeployPowerup.respawnTime()']]],
+  ['restartgame_209',['RestartGame',['../class_game_manager.html#acad1293048a68e6ba14c1a62c7503c09',1,'GameManager.RestartGame()'],['../class_collide_ship.html#a5854128e7f499e1190fef86087c24656',1,'CollideShip.RestartGame()'],['../class_lives_controller.html#a583b60e34ebf20ebb527b8d9cda52637',1,'LivesController.RestartGame()']]],
+  ['restartmenu_210',['RestartMenu',['../class_lives_controller.html#a328496f0f06bedbf40e71dfab5fec09c',1,'LivesController']]],
+  ['rightlimit_211',['rightLimit',['../class_introduction_camera.html#a5c1fdee963180a5faad5d44ec45f700e',1,'IntroductionCamera.rightLimit()'],['../class_my_camera.html#af9c18e79169a91ba1d2b89e4b3a38292',1,'MyCamera.rightLimit()']]]
+];

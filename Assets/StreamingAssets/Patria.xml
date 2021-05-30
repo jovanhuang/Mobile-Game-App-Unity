@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>wwww.123movies.com appears to be offering free movie streaming at a cost of a survey. Can the website be trusted?</Info>
+      <Answers>
+        <Answer>
+          <Info>Yes, it is free why not?</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>No. Sites like this are clickbaits.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    <Question>
+      <Info>www.freeandroidapps.com seems to be offering free android applications that seemingly needs to be paid on Google Play Store.</Info>
+      <Answers>
+        <Answer>
+          <Info>Download from www.freeandroidapps.com</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Ignore website and download from Google Play Store</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    <Question>
+      <Info>Should you download applications outside of Google Play or Appstore?</Info>
+      <Answers>
+        <Answer>
+          <Info>Yes</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>No</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    <Question>
+      <Info>Which of the following is not a recommended mobile security given by the application?</Info>
+      <Answers>
+        <Answer>
+          <Info>AVG Antivirus</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>McAfee Mobile Security</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Avast Mobile Security</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ThreatDefense Security</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Norton Mobile Security</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    </Questions>
+</Data>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>IOT devices are convinient but are they secured?</Info>
+      <Answers>
+        <Answer>
+          <Info>Yes, no information can be obtained from my Smart-Fan</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>No, at least one personal information can be obtained via the device / the cloud services</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>10</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    <Question>
+      <Info>__% of IOT devices used unencrypted network services?</Info>
+      <Answers>
+        <Answer>
+          <Info>70</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>10</AddScore>
+    </Question>
+    </Questions>
+</Data>
