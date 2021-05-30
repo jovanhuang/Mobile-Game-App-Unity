@@ -1,5 +1,6 @@
 # Mobile-game-unity
 *Group Members: Goh Jun Le, Jannat Bedi, Bryan Goh, Jovan Huang, Patria Lim*
+This application was created under NTU EDGE programme for UBS Group AG.
 
 ### Description
 - A gaming application with 4 different levels to educate and test the public on cybersecurity knowledge. <br>
