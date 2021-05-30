@@ -2,7 +2,7 @@
 *Group Members: Goh Jun Le, Jannat Bedi, Bryan Goh, Jovan Huang, Patria Lim*
 
 ### Description
-A gaming application with 4 different levels to educate and test the public on cybersecurity knowledge. <br>
+- A gaming application with 4 different levels to educate and test the public on cybersecurity knowledge. <br>
 This 2D game is created in Unity with C# game scripts. <br>
 Graphics are obtained from free sources or self-made. <br>
 Each level may consist of multiple minigames or educational knowledge which will help raise awareness amongst the public. <br>
